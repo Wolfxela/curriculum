@@ -19,7 +19,7 @@ Some of the things you can do to contribute to our curriculum include:
 * Add new resource links you think would make a lesson better.
 * Work on entirely new lessons after getting approval.
 
-**Happy Coding!**
+**Happier Coding!**
 
 \* See [license.md](https://github.com/TheOdinProject/curriculum/blob/main/license.md) for usage details.
 
